@@ -1,6 +1,6 @@
 public class HelloWorld2 {
 
-// Modificado desde github
+// Modificado desde githubb
 	public static void main(String[] args) {
 	
 
