@@ -1,11 +1,8 @@
-
 public class HelloWorld2 {
 
-	/**
-	 * @param args
-	 */
+// Modificado desde github
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
 	}
 
